@@ -1,0 +1,7 @@
+body{background-color: black;}
+#game{border:1px solid #8fa5b3;background-color:black;cursor:none;border-radius: 5px; display: inline;margin-top:40px;}
+#canvas-container {
+   width: 100%;
+   text-align:center;
+}
+ 
