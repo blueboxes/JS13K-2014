@@ -1,8 +1,6 @@
 # Element War - JS13K Games 2014 Entry
 
-## About
-
-This is my 2014 js13kgames entrya nd my first ever entry in to the competition. 
+This is my 2014 js13kgames entry and my first ever entry in to the competition. The game is basic memory game in which you are trying to remember then collect elements in order.
 
 ## Playing Instructions  
 
@@ -21,7 +19,7 @@ Move the ship left to right using the mouse and fire using the right mouse butto
 * Screens for Welcome, Levelup, game Over and Pause
 * Basic scoring system with leaderboard using [cookies.js](https://developer.mozilla.org/en-US/docs/Web/API/document.cookie)
 * Sounds using [jsfxr.js](https://github.com/mneubrand/jsfxr)
-* Increasingly difficult Levels
+* Increasingly Levels
 * Explosions on hitting targets
 * Compressed to 11k using [gulp.js](http://gulpjs.com/)
 
